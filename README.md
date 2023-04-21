@@ -2,6 +2,13 @@
 
 <h2>👨‍💻 Software Development:</h2>
  I will be adding some projects soon.
+ 
+ <h2>Certifications </h2>
+ 
+ - [Product Management Certification](https://hellopm.co/certificate/?certificate_id=H2EM28) <br>
+ - [Microsoft Certified Professional]() <br>
+ - [Microsoft Technology Associate]() <br>
+ 
 <h2> 🤳 Connect with me:</h2>
 [linkedin]: https://www.linkedin.com/in/guruling-kumbhar/
 
